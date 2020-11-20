@@ -12,7 +12,6 @@ import {
     Dimensions,
     TouchableOpacity,
 } from 'react-native'
-const Button = require('./Button');
 
 const WINDOW_WIDTH = Dimensions.get('window').width;
 
